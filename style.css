@@ -4,7 +4,7 @@
    box-sizing:border-box;
  }
  #main{
-  align-self: center;
+  margin:auto;
   height: 800px;
   width: 1225px;
  }
