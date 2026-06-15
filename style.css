@@ -3,6 +3,11 @@
    font-family:Arial;
    box-sizing:border-box;
  }
+ #main{
+  align-self: center;
+  height: 800px;
+  width: 1225px;
+ }
  .navbar{
    height: 60px;
    background-color: #0f1111;
